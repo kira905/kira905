@@ -14,6 +14,18 @@
 
 ---
 
+#### 一条命令跑起来
+
+每个仓的安装都只有一行，例如：
+
+```powershell
+npm i -g @kira905/dsh-butler-core
+```
+
+装完叫什么名字、怎么确认真装上了、哪条命令只读哪条会写盘 —— 各仓 README 的「一条命令跑起来 / 装完自检」两节都写清了，照抄就行。
+
+---
+
 #### 三个代表作
 
 **🧭 [dsh-butler-core](https://github.com/kira905/dsh-butler-core)** — 常驻调度与自律闸门
